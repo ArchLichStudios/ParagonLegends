@@ -1,0 +1,8 @@
+{
+	"retryBase":	2000,
+	"retryMax":	60000.003906,
+	"requestTimeout":	15000.000977,
+	"durableConcurrentRequests":	1,
+	"durableDrainInterval":	100,
+	"handshakeOffset":	2000
+}
